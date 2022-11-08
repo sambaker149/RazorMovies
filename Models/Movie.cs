@@ -25,4 +25,3 @@ namespace RazorMovies.Models
         public decimal Price { get; set; }
     }
 }
-
