@@ -2,16 +2,6 @@
 
 namespace RazorMovies.Models
 {
-    /// <summary>
-    /// This Class acts as the Model for the RazorMovies project
-    /// </summary>
-    /// <author>
-    /// Samuel Baker 01/11/2022
-    /// </author>
-    /// <modified>
-    /// Samuel Baker 08/11/2022
-    /// </modified>
-
     public enum Genres
     {
         Action, Horror, Drama, Thriller, Adventure, Comedy
